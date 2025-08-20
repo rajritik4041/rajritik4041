@@ -1,7 +1,7 @@
 ![logo](https://github.com/rajritik4041/rajritik4041/blob/main/ChatGPT%20Image%20Aug%2020%2C%202025%2C%2005_04_00%20PM.png)
 <h1 align="center">Hi 👋, I'm Raj Ritik</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/rajritik4041/rajritik4041/blob/main/output_optimized.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w5NHdlODNhbnBrY3hrNXY3eXF1cXB5MjZjOTJkMGt6aWJtdDlyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqGgvimnhFJZlFVqJE/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajritik4041&label=Profile%20views&color=0e75b6&style=flat" alt="rajritik4041" /> </p>
 
 - 🌱 I’m currently learning **Javascripts**
